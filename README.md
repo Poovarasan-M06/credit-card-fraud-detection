@@ -1,4 +1,5 @@
 **💳 Credit Card Fraud Detection & Analysis (Power BI)**
+
 **📌 Project Overview**
 
 This project focuses on analyzing credit card transaction data to detect fraud patterns using Power BI Desktop.
@@ -15,6 +16,7 @@ Visualize risk indicators
 Support decision-making through interactive dashboards
 
 **📊 Dashboard Highlights**
+
 **🔢 Key Metrics**
 
 10K Total Transactions
@@ -28,6 +30,7 @@ Support decision-making through interactive dashboards
 216.18 Average Fraud Amount
 
 **📈 Visualizations Included**
+
 1️⃣ Fraud vs Normal Transactions
 
 Donut chart comparison
@@ -101,13 +104,13 @@ Location mismatch increases fraud probability.
 
 Late-night transactions show higher transaction volume.
 
-📂 Project File
+**📂 Project File**
 
 Power BI Dashboard File:
 📄 Credit Card Fraud Detection & Analysis.pbix
 (Refer to uploaded project file)
 
-🚀 How to Use
+**🚀 How to Use**
 
 Open the .pbix file in Power BI Desktop
 
